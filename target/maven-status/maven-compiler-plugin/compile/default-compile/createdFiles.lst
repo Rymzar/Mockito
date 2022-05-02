@@ -1,0 +1,10 @@
+Main.class
+i18n\LocalizationServiceImpl$1.class
+geo\GeoServiceImpl.class
+i18n\LocalizationServiceImpl.class
+entity\Location.class
+sender\MessageSender.class
+entity\Country.class
+geo\GeoService.class
+i18n\LocalizationService.class
+sender\MessageSenderImpl.class
